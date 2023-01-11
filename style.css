@@ -1,0 +1,44 @@
+.canvas {
+    margin: 0 auto;
+    width: 900px;
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background: linear-gradient(90deg, rgba(60, 180, 199, 1) 0%, rgba(131, 41, 209, 1) 100%);
+}
+
+.wrapper {
+    width: 900px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+}
+
+.description {
+    width: 900px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: white;
+}
+
+.btn {
+    font-size: 30px;
+}
+
+.control {
+    width: 900px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
